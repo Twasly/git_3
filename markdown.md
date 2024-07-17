@@ -25,6 +25,10 @@ To add numbered lists, you just need to number the elements. For example, this w
 To add picture you need to write this: 
 ![Hi, this is dawn](e698f6a7083f4df3d1e3fc625dcf62c8.jpg)
 
+or
+
+<img src=e698f6a7083f4df3d1e3fc625dcf62c8.jpg width=300>
+
 ## Links
 
 ## Tables
