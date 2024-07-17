@@ -12,6 +12,9 @@ Another ways of highlighting the text in italics or bold are necessary to combin
 
 ## Pictures
 
+To add picture you need to write this:
+![Hi, this is dawn](e698f6a7083f4df3d1e3fc625dcf62c8.jpg)
+
 ## Links
 
 ## Tables
