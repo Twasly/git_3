@@ -54,6 +54,14 @@ or
 </tr>
 </table>
 
-## Quotes
+## Pull request
+
+1. Make Fork of repository
+2. Clone your version of repository
+3. Create new branch and make changes inside of it
+4. Commit changes
+5. Send your version to your Github
+6. Push pull request on GitHub
 
 ## Conclusion
+There are a lot of things you can do on GitHub, and much more commands, but that's enough at initial stage
